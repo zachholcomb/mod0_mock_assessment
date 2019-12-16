@@ -1,0 +1,69 @@
+Make Sandwich
+1. Toast bread
+  1.1 Get loaf of bread
+  1.2 Cut loaf into two similar sized pieces
+    1.2.1 Get bread knife
+    1.2.2 Place bread on cutting board
+  1.3 Place bread in toaster
+2. Make bottom layer
+  2.1 Place one slice of bread on plate
+  2.2 Spread bread with mayo
+    2.2.1 Grab mayo from fridge
+    2.2.2 Grab butter knife from utensil drawer
+    2.2.3 Open mayo
+  2.3 Place slice of tomato on bread
+    2.3.1 Grab tomato from fridge
+    2.3.2 Grab sharp knife from knife drawer
+    2.3.3 Rinse tomato with cold water
+    2.3.4 Place tomato on cutting board
+    2.3.5 Cut tomato with knife into thin slices
+  2.4 Sprinkle salt and pepper
+    2.4.1 Grab salt shaker from pantry
+    2.4.2 Grab pepper shaker from pantry
+3. Make middle layer
+  3.1 Place turkey on to bottom layer
+    3.1.1 Grab turkey from fridge
+    3.1.2 Unwrap turkey
+    3.1.3 Separate two slices of turkey from package
+    3.1.4 Place on sandwich
+  3.2 Place slice of avocado
+    3.2.1 Grab avocado from fridge
+     3.2.1.1 Test avocado for ripeness by gently squeezing
+    3.2.2 Split avocado in half
+      3.2.2.1 Cut fully around outside of avocado
+        3.2.2.1.1 Grab knife
+        3.2.2.1.2 Insert knife into avocado
+      3.2.2.2 Twist avocado to pull apart
+      3.2.2.3 Remove pit
+        3.2.2.3.1 Insert knife into avocado pit
+        3.2.2.3.2 Twist
+    3.2.3 Slice avocado
+      3.2.3.1 Insert knife into avocado
+      3.2.3.2 Cut even strips
+      3.2.3.2 Remove strips
+        3.2.3.2.1 Grab spoon
+        3.2.3.2.2 Insert spoon into avocado
+        3.2.3.2.3 Pull slices out of avocado
+  3.3 Place two slices of bacon
+    3.3.1 Grab bacon from fridge
+    3.3.2 Remove from package
+    3.3.3 Fry bacon
+      3.3.3.1 Place griddle on stovetop
+      3.3.3.2 Turn burner to med-hi
+      3.3.3.3 Cook until crispy
+    3.3.4 Dry grease off bacon
+4. Make top layer
+  4.1 Spread mustard on remaining piece of bread
+    4.1.1 Grab mustard from fridge
+    4.1.2 Grab butter knife from drawer
+    4.1.3 Squirt mustard on to bread
+    4.1.4 Spread mustard
+  4.2 Place lettuce on top half
+    4.2.1 Grab lettuce from fridge
+    4.2.2 Rinse lettuce with cold water
+    4.2.3 Tear two pieces of lettuce head
+  4.3 Place top layer on the rest of sandwich
+5. Cut in half
+  5.1 Grab bread knife
+  5.2 Place hand on sandwich
+  5.3 Drag knife through sandwich 
