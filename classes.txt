@@ -1,7 +1,6 @@
 Class:  chair
 
 Attributes:
-chairType (string)
 color (string)
 pillows (array)
 chairMaterial (string)
@@ -12,4 +11,4 @@ Methods:
 changeColor (changes the color attribute)
 addPillow (adds pillow as a string into the pillow array at the end of the array)
 collapseChair (change is isCollapsed to true)
-removePillow (removes pillow from the beginning of the pillows array)
+removePillow (removes string from the beginning of the pillows array)
