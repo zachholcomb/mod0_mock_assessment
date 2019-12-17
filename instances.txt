@@ -1,0 +1,26 @@
+Object:   foldingChair
+
+color: "Black"
+pillows: ["back cushion", "seat cushion",]
+chairMaterial:  "steel"
+isCollapsible:  true
+isCollapsed:  false
+
+changeColor ("white")
+addPillow (adds "extra pillow" ["back cushion", "seat cushion"])
+collapseChair (isCollapsed = true)
+removePillow ["seat cushion", "extra pillow"]
+
+
+Object:  armChair
+
+color:  "Red"
+pillows:  ["seat cushion", "back cushion", "decorative throw pillow"]
+chairMaterial: "Cloth"
+isCollapsible:  false
+isCollapsed:  false
+
+changeColor ("Blue")
+addPillow (adds "blue throw pillow" ["seat cushion", "back cushion", "decorative throw pillow"])
+collapseChair (isCollapsed = false)
+removePillows ["back cushion", "decorative throw pillow", "blue throw pillow"]
